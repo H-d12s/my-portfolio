@@ -417,7 +417,7 @@ export default function Portfolio() {
           </FadeIn>
           <FadeIn delay={0.15}>
             <div style={S.statsRow}>
-              <div style={S.statCard}><div style={S.statNum}>8.65</div><div style={S.statLabel}>CGPA / 10</div></div>
+              <div style={S.statCard}><div style={S.statNum}>10+</div><div style={S.statLabel}>Skills</div></div>
               <div style={S.statCard}><div style={S.statNum}>8+</div><div style={S.statLabel}>Projects Shipped</div></div>
               <div style={S.statCard}><div style={S.statNum}>2027</div><div style={S.statLabel}>Graduation</div></div>
             </div>
